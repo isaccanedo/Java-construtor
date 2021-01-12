@@ -1,9 +1,14 @@
 
 public class Main {
 	
+	/* +---------------------------------------------
+	 * | @author Isac Canedo
+	 * +---------------------------------------------
+	 */
+	
 	/*
 	 * What method can be used to create a new instance of an object?
-	 * Qual mÈtodo pode ser usado para criar uma nova inst‚ncia de um objeto?
+	 * Qual m√©todo pode ser usado para criar uma nova inst√¢ncia de um objeto?
 	 * 
 	 * 1 - field
 	 * 2 - private method
@@ -30,13 +35,13 @@ public class Main {
 	}
 
 	private static void isac2() {
-		System.out.println("MÈtodo Isac 3");
+		System.out.println("M√©todo Isac 3");
 		
 	}
 
 	private static void isac() {
 
-		System.out.println("MÈtodo Isac");
+		System.out.println("M√©todo Isac");
 		
 	}
 
